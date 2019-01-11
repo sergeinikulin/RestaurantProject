@@ -1,0 +1,372 @@
+.home{
+    padding-right: 11px;
+}
+
+body{
+      background-color: #484c56;
+}
+.Ros{
+  padding: 3px;
+position: relative;
+padding-left: 145px;
+    z-index: 0;
+}
+
+.nopadding{
+  padding: 0
+}
+
+a {
+   text-decoration: none; /* Убираем подчеркивание у ссылок */
+  }
+
+  .or {
+      background: #292d3a;
+      padding: 5px 18px;
+      margin-top: 17px;
+      color: #bdbec1;
+      border-radius: 3px;
+  }
+
+
+
+
+
+.or3:last-child{margin-right: 0px!important}
+
+.hiddens{
+  display:none;
+}
+  .or2 {
+      background: #292d3a;
+      padding: 5px 18px;
+      margin-top: 17px;
+      color: #bdbec1;
+      border-radius: 3px;
+      width:50%
+  }
+
+  .or21 {
+      background: #292d3a;
+      padding: 5px 18px;
+      margin-top: 17px;
+      color: #bdbec1;
+      border-radius: 3px;
+
+      height: 41px;
+padding-top: 10px;
+position: absolute;
+right: 15px;
+width: 42%;
+  }
+
+  .osd{
+    background: #bdbec1;
+width: 33px;
+border-radius: 21px;
+color: #292d3a;
+text-align: center;
+  }
+
+  .noor{
+    margin-top: 7px;
+margin-bottom: -7px;
+position: relative;
+bottom: -5px;
+  }
+
+
+  .modal-content {
+    border: none;
+    border-radius: inherit;
+    padding: 0px;
+        margin-left: 130px;
+
+  }
+
+  .modal-dialog {
+
+    margin-top: 0px;
+    width: 100%;
+
+}
+
+.itemo{
+      display: block !important;
+      margin-left: -31px;
+margin-right: -31px;
+    height: 45px;
+}
+.navbar {
+  position: absolute;
+  left: 0;
+  z-index: 1;
+  width: 130px;
+  height: 100%;
+  padding: 0;
+  border-left: 8px solid #c73f3f;
+  margin: 0;
+  background: #292d38;
+  /* border: navajowhite; */
+  border-radius: 0px;
+  list-style-type: none;
+  padding: 0px;
+  border-right: none;
+  border-top: none;
+    border-bottom: none;
+}
+
+.navbar > .container{
+  width:122px;
+}
+
+
+.home .nav>li {
+    position: relative;
+    display: inline-block;
+}
+
+.home .nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #bdbec1;
+}
+
+.home .nav>li>a:hover {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #bdbec1;
+    outline: none;
+background: none;
+opacity: 0.8;
+}
+
+.home .nav>li>a:focus {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #bdbec1;
+    outline: none;
+background: none;
+opacity: 0.8;
+}
+
+.home .nav {
+
+    border-radius: 3px;
+    background: #292d39;
+    padding: 6px 23px;
+    width: 100%;
+    margin-top: 11px;
+    /* margin-right: 26px; */
+    /* padding-left: 0; */
+    display: inline-block;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.klsa{
+  padding: 15px 0px;
+      margin-left: -10px;
+      text-align: center;
+      width: 106px;
+}
+
+.form-control{
+  box-shadow: none;
+padding: 23px 38px;
+color: #6b6b6b;
+font-size: 17px;
+border-color: #d2d2d2;
+border-radius: 3px;
+
+}
+
+.btn-primary{
+  background: #3aa060;
+border: none;
+padding: 10px 28px;
+}
+
+.btn-default{
+  background: #a03a3a;
+border: none;
+padding: 10px 28px;
+text-shadow: none;
+color: white;
+}
+
+.modal-header {
+  padding: 15px;
+      color: white;
+      font-size: 24px;
+      background: #333742;
+      border-bottom: 1px solid #e5e5e5;
+}
+
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #dedede;
+   text-shadow: none;
+
+ opacity: 1;
+}
+.dss{
+  text-align: center;
+font-size: 150px;
+}
+
+.olsd{
+  background: #6f7177;
+  width: 100%;
+  margin-left: -26px;
+  padding-left: 0px;
+  text-align: center;
+  padding: 9px;
+      border-radius: 0px 3px 3px 0px;
+}
+
+.olsd::before{
+  content: "\A";
+  z-index: -1;
+  border-style: solid;
+  border-width: 29px 29px 28px 15px;
+  border-color: transparent #38393c transparent transparent;
+  position: absolute;
+  left: -15px;
+}
+
+
+.olsd2{
+  padding: 10px 0px;
+}
+
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+    text-align: center;
+}
+
+.fasas{
+  font-size: 40px;
+  color: #646973;
+  padding-bottom: 10px;
+}
+
+.ahref {
+  color: #656973;
+text-decoration: none;
+}
+.ahref:hover,
+.ahref:focus {
+  color: #656973;
+  text-decoration: none;
+}
+.ahref:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+  text-decoration: none;
+}
+
+
+.homes >.nav>li {
+    position: relative;
+    display: inline-block;
+    width: 33%;
+}
+
+
+.or3 {
+  display: inline-block;
+    background: #292d3a;
+    padding: 5px 18px;
+    margin-top: 17px;
+    color: #bdbec1;
+    border-radius: 3px;
+        margin-right: 2%;
+
+}
+
+
+.or3:focus{
+    outline: navajowhite;
+}
+
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #484c56;
+    outline: navajowhite;
+}
+
+.homes >.nav>li>a:focus, .homes >.nav>li>a:hover {
+    text-decoration: none;
+    background-color: #484c56;
+    outline: navajowhite;
+}
+
+
+.homes >.newnav>li {
+  width: auto !important;
+}
+
+
+.homes >.newnav {
+    border-radius: 3px;
+    background: #292d39;
+    padding: 6px 23px;
+        width: 96.87%;
+    margin-top: 11px;
+    /* margin-right: 26px; */
+    /* padding-left: 0; */
+    display: inline-block;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+.homes >.newnav>li {
+    position: relative;
+    display: inline-block;
+}
+
+.homes >.newnav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #bdbec1;
+}
+
+.homes >.newnav>li>a:hover {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #bdbec1;
+    outline: none;
+background: none;
+opacity: 0.8;
+}
+
+.homes >.newnav>li>a:focus {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #bdbec1;
+    outline: none;
+background: none;
+
+opacity: 0.8;
+}
